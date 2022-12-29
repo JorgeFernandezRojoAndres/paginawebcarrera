@@ -1,0 +1,13 @@
+Para crear una página web donde los usuarios puedan iniciar sesión desde
+YouTube y cargar imágenes para ganar puntos, puede usar una combinación 
+de HTML, CSS y JavaScript. Este es un ejemplo de cómo podría configurarse
+la página:
+
+
+
+Por supuesto, esto es solo un esquema básico, y deberá agregar detalles y 
+funciones más específicos a la página. Puede usar la API de YouTube para permitir 
+que los usuarios inicien sesión con sus cuentas de YouTube e interactúen 
+con la plataforma, como suscribirse a un canal o dejar comentarios en videos.
+También puede usar una base de datos o algún otro método para realizar 
+un seguimiento del total de puntos de cada usuario y mostrarlo en la página.
